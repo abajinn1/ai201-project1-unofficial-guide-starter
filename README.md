@@ -21,18 +21,19 @@ This knowledge is valuable because official WGU pages explain the degree structu
      Be specific: include URLs, subreddit names, forum thread titles, or file names.
      Aim for variety — sources that together cover different subtopics or perspectives. -->
 
-| # | Source | Type | URL or file path |
-|---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| #  | Source                                                     | Type                      | URL or file path                                                                                                                                                         |
+| -- | ---------------------------------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1  | WGU BSCSIA Program Page                                    | Official program page     | `documents/01_wgu_bscsia_program_page.txt` / https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html                            |
+| 2  | WGU BSCSIA Program Guide PDF                               | Official program guide    | `documents/02_wgu_bscsia_program_guide.txt` / https://www.wgu.edu/content/dam/wgu-65-assets/western-governors/documents/program-guides/information-technology/BSCSIA.pdf |
+| 3  | Reddit: Completed BSCSIA in 159 Days                       | Student Reddit writeup    | `documents/03_completed_bscsia_159_days.txt` / https://www.reddit.com/r/WGU/comments/11n8862/completed_bscia_in_159_days_14_classes_master/                              |
+| 4  | Reddit: How are people finishing in one term?              | Student Reddit discussion | `documents/04_one_term_acceleration_discussion.txt` / https://www.reddit.com/r/WGU/comments/11suupz/how_are_people_finishing_in_one_term/                                |
+| 5  | Reddit: Fast-tracking BSCSIA with Certifications           | Student Reddit discussion | `documents/05_fast_tracking_with_certifications.txt` / https://www.reddit.com/r/WGUCyberSecurity/comments/13iq9ny/seeking_advice_fasttracking_bscsia_at_wgu_with/        |
+| 6  | Reddit: Review of the Bachelor's in Cybersecurity Program  | Student Reddit review     | `documents/06_bachelors_cybersecurity_review.txt` / https://www.reddit.com/r/WGUCyberSecurity/comments/1fw9i57/my_review_of_the_bachelors_in_cybersecurity/              |
+| 7  | Reddit: Hardest Courses in Cybersecurity Program           | Student Reddit discussion | `documents/07_hardest_cybersecurity_courses.txt` / https://www.reddit.com/r/WGUCyberSecurity/comments/1cwrg2l/what_are_the_hardest_courses_in_the_cybersecurity/         |
+| 8  | Reddit: BSCSIA Capstone Done                               | Student Reddit writeup    | `documents/08_bscsia_capstone_done.txt` / https://www.reddit.com/r/WGU/comments/o13eym/bscsia_capstone_done/                                                             |
+| 9  | Reddit: WGU Cyber Security Course/Certification List       | Student Reddit discussion | `documents/09_course_certification_list.txt` / https://www.reddit.com/r/WGUCyberSecurity/comments/p9m3c1/wgu_cyber_security_course_certification_list/                   |
+| 10 | Reddit: What Courses Will My CompTIA Certifications Cover? | Student Reddit discussion | `documents/10_comptia_transfer_credit_discussion.txt` / https://www.reddit.com/r/WGU/comments/1dhp4v7/what_courses_will_my_comptia_certifications_cover/                 |
+
 
 ---
 
@@ -246,13 +247,14 @@ WGU BSCSIA Program Guide PDF — distance 0.454
      Be honest — a partially accurate or inaccurate result that you explain well is more
      valuable than a suspiciously perfect result. -->
 
-| # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
-|---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| # | Question                                                                                                                  | Expected answer                                                                                                                                                                                                  | System response (summarized)                                                                                                                                                                                                                                          | Retrieval quality  | Response accuracy  |
+| - | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------ |
+| 1 | What do students say are common ways to accelerate the WGU BSCSIA program?                                                | Students commonly mention transferring in credits, using existing certifications, studying consistently, choosing an efficient course order, and dedicating significant weekly time to coursework.               | The system said students accelerate by using prior experience, transfer credits, available study time, disciplined course strategy, and previous certifications.                                                                                                      | Relevant           | Accurate           |
+| 2 | What do students say are some of the hardest or most time-consuming parts of the WGU cybersecurity program?               | Students often identify certification-heavy courses, difficult technical courses, database-related courses, PenTest+/security courses, and the capstone as potential bottlenecks, depending on prior experience. | The system identified certification-heavy courses, security exam preparation, technical courses, database-related requirements, and capstone work as difficult or time-consuming.                                                                                     | Relevant           | Accurate           |
+| 3 | What certifications or prior credits can help reduce the number of WGU cybersecurity courses a student needs to complete? | CompTIA certifications and other transfer credits may satisfy some course requirements, but the exact coverage depends on WGU’s current transfer policy and the student’s transcript evaluation.                 | The system said CompTIA and other certification exams may help reduce course requirements, but students must verify current requirements and WGU transfer evaluation.                                                                                                 | Relevant           | Accurate           |
+| 4 | What advice do students give for preparing for cybersecurity certification courses at WGU?                                | Students generally recommend using outside study resources, practice exams, structured study plans, and focusing on certification objectives rather than relying only on course material.                        | The system said the documents discuss certifications as major milestones and mention that prior IT/cybersecurity experience may reduce preparation time, but it also admitted that specific certification preparation advice is not provided in the loaded documents. | Partially relevant | Partially accurate |
+| 5 | What do students say about finishing the BSCSIA in one term?                                                              | Some students report finishing quickly or in one term, but it usually requires prior knowledge, transfer credits, strong time commitment, and careful pacing; it is not realistic for every student.             | The system said one-term completion is possible but usually requires transfer credits, prior knowledge, certification experience, strong time management, and many hours per week; it also said one-term completion is not realistic for every student.               | Relevant           | Accurate           |
+
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate

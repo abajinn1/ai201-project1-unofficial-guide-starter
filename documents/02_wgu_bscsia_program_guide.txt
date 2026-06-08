@@ -1,0 +1,6 @@
+Title: WGU BSCSIA Program Guide PDF
+Source URL: https://www.wgu.edu/content/dam/wgu-65-assets/western-governors/documents/program-guides/information-technology/BSCSIA.pdf
+Source Type: Official program guide
+
+Content:
+This document is used as an official baseline for the BS Cybersecurity and Information Assurance program structure. It provides context for the courses, degree expectations, and the difference between official curriculum requirements and unofficial student advice. In the RAG system, this source helps ground answers about what the program is officially designed to cover, while student posts provide experience-based advice about difficulty, pacing, and preparation.

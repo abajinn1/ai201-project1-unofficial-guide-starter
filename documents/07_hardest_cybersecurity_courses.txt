@@ -1,0 +1,6 @@
+Title: Reddit: Hardest Courses in Cybersecurity Program
+Source URL: https://www.reddit.com/r/WGUCyberSecurity/comments/1cwrg2l/what_are_the_hardest_courses_in_the_cybersecurity/
+Source Type: Student Reddit discussion
+
+Content:
+This student discussion is useful for identifying courses or certifications that students often describe as difficult or time-consuming. Common bottlenecks in cybersecurity degree discussions include certification-heavy courses, security exam preparation, technical courses, database-related requirements, and capstone work. Difficulty varies by background: students with IT or cybersecurity experience may find some courses easier, while students new to the field may need more preparation time.

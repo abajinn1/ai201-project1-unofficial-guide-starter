@@ -1,0 +1,6 @@
+Title: Reddit: WGU Cyber Security Course/Certification List
+Source URL: https://www.reddit.com/r/WGUCyberSecurity/comments/p9m3c1/wgu_cyber_security_course_certification_list/
+Source Type: Student Reddit discussion
+
+Content:
+This source is useful for questions about how cybersecurity courses relate to industry certifications. Students often discuss CompTIA and other certification exams as major milestones in the program. This type of source helps the guide answer questions about certification planning, but it should be used carefully because course mappings and certification requirements can change. Users should verify current requirements with WGU.
